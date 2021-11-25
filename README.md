@@ -10,7 +10,7 @@ In this project, we use [mmdetectoin](https://github.com/open-mmlab/mmdetection)
 https://github.com/ray980215/VRDL_HW2/blob/main/hw2.ipynb
 
 ## Inference
-
+https://github.com/ray980215/VRDL_HW2/blob/main/inference.ipynb
 
 
 ## Pre-trained Models
@@ -21,4 +21,4 @@ You can download my model weights here:
 
 ## Results
 
-Our model achieves the following performance on :
+my model achieves the following performance : mAP = 0.24
